@@ -1,17 +1,27 @@
-<!-- markdownlint-disable first-line-h1 -->
+[//]: # (> A magical documentation site generator.)
 
-![logo](_media/icon.svg)
 
-# docsify <small>4.13.0</small>
+```
+_..._
+      .'     '.     _
+     /    .-""-\   _/ \
+   .-|   /:.   |  |   |
+   |  \  |:.   /.-'-./
+   | .-'-;:__.'    =/
+   .'=  *=|NASA _.='
+  /   _.  |    ;
+ ;-.-'|    \   |
+/   | \    _\  _\
+\__/'._;.  ==' ==\
+         \    \   |
+         /    /   /
+         /-._/-._/
+  zyh    \   `\  \
+          `-._/._/
+```
 
-> A magical documentation site generator
+- 🎶 Good afternoon
+- 🏀 Good evening
+- 🏔️ Goog night
 
-- Simple and lightweight
-- No statically built HTML files
-- Multiple themes
-
-[Get Started](#docsify)
-[GitHub](https://github.com/docsifyjs/docsify/)
-
-<!-- ![color](#f0f0f0) -->
-<!-- ![](/_media/icon.svg) -->
+[Welcome](#docsify)
