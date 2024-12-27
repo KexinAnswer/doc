@@ -92,8 +92,10 @@
         auto2top: true,
         coverpage: true,
         executeScript: true,
-        loadSidebar: true,
-        loadNavbar: true,
+        loadSidebar: true, alias: {
+          '/.*/_sidebar.md': '/_sidebar.md'
+        },
+        loadNavbar: false,
         mergeNavbar: true,
         maxLevel: 4,
         subMaxLevel: 2,
